@@ -13,7 +13,7 @@ html {
     background-image: url("https://www.tate.org.uk/art/images/work/T/T00/T00384_10.jpg");
   }
   h1 {
-    font-size: 2.5rem;
+    font-size: 4rem;
     margin-bottom: 0;
     color: black;
   }
@@ -77,6 +77,5 @@ html {
     }
   p {
     font-size: 2.7rem;
-    color: #EA720F;
-    background-color: #FDF2E9;
+    color: black;
   }
